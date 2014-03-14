@@ -1,0 +1,8 @@
+
+This is a QGIS plugin. It adds an entry "Reload Project" to the "Project"
+menu. Clicking this (or using the Ctrl-r shortcut) will reload the current
+project.
+
+This plugin is available under the same license as QGIS itself:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+
