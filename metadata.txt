@@ -1,14 +1,13 @@
 [general]
 name=ReloadProject
 qgisMinimumVersion=2.0
-description=Adds Reload Project entry to Project menu
-authorName=Jochen Topf
-version=version 1.0
-
+description=Adds "Reload Project" entry to Project menu
+version=1.1
+author=Jochen Topf
+email=jochen@topf.org
 tags=reload,project
-
 repository=https://github.com/joto/qgis-plugin-reload-project
 icon=icon.png
-
+homepage=https://github.com/joto/qgis-plugin-reload-project
 experimental=False
 deprecated=False
