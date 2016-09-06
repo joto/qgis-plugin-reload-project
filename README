@@ -6,3 +6,6 @@ project.
 This plugin is available under the same license as QGIS itself:
 http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
 
+To install this plugin, create this folder ~/.qgis2/python/plugins/, cd 
+there, and git clone this project. Then Manage Plugins in QGIS and enable
+this plugin.
